@@ -1,0 +1,7 @@
+ces2\patronbridge\devices\Device.class
+ces2\patronbridge\PatronBridge.class
+ces2\patronbridge\devices\Tv.class
+remotes\AdvancedRemote.class
+remotes\Remote.class
+remotes\BasicRemote.class
+ces2\patronbridge\devices\Radio.class
